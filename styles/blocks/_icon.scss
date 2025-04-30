@@ -3,7 +3,8 @@
 .icon {
   display: inline-flex;
   align-items: center;
-  column-gap: rem(10);
+  column-gap: rem(15);
+  padding-left: rem(11);
 
   &::after {
     --size: #{rem(24)};
@@ -11,7 +12,7 @@
     @include square(var(--size));
 
     content: '';
-
+    
     flex-shrink: 0;
     background-position: center;
     background-size: contain;

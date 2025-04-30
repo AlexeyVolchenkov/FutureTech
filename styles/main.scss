@@ -13,6 +13,15 @@
 @use './blocks/socials';
 @use './blocks/footer';
 
-.header {
-  display: none !important;
-}
+@use './blocks/metrics';
+@use './blocks/team';
+@use './blocks/resources-preview';
+@use './blocks/advantage-card';
+@use './blocks/hero';
+
+@use './blocks/tag';
+@use './blocks/section';
+@use './blocks/list';
+@use './blocks/tile';
+@use './blocks/card';
+

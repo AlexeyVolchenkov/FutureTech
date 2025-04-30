@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="49.993" height="50" viewBox="0 0 49.993 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M7.80555 0L0 0L0 15.5833L7.80555 15.5833L7.80555 0L7.80555 0Z" fill="#FFD11A" fill-rule="evenodd" transform="translate(21.122 34.417)" />
+    <path d="M7.80555 0L0 0L0 15.5833L7.80555 15.5833L7.80555 0L7.80555 0Z" fill="#FFD11A" fill-rule="evenodd" transform="translate(21.122 0)" />
+    <path d="M7.80555 0L0 0L0 15.5833L7.80555 15.5833L7.80555 0L7.80555 0Z" fill="#FFD11A" fill-rule="evenodd" transform="matrix(0 -1 1 0 34.41 28.9)" />
+    <path d="M7.80555 0L0 0L0 15.5833L7.80555 15.5833L7.80555 0L7.80555 0Z" fill="#FFD11A" fill-rule="evenodd" transform="matrix(0 -1 1 0 0 28.907)" />
+    <path d="M7.8055 -3.8147e-06L0 0L0 15.5831L7.8055 15.5831L7.8055 -3.8147e-06L7.8055 -3.8147e-06Z" fill="#404040" fill-rule="evenodd" transform="matrix(0.707 -0.707 0.707 0.707 28.905 34.396)" />
+    <path d="M7.80548 0L0 0L0 15.5831L7.80547 15.5831L7.80548 0L7.80548 0Z" fill="#404040" fill-rule="evenodd" transform="matrix(0.707 -0.707 0.707 0.707 4.571 10.065)" />
+    <path d="M7.80549 9.53674e-07L0 0L0 15.5832L7.80549 15.5831L7.80549 9.53674e-07L7.80549 9.53674e-07Z" fill="#404040" fill-rule="evenodd" transform="matrix(-0.707 -0.707 0.707 -0.707 34.405 21.108)" />
+    <path d="M7.80547 0L0 0L0 15.5832L7.80547 15.5831L7.80547 0L7.80547 0Z" fill="#404040" fill-rule="evenodd" transform="matrix(-0.707 -0.707 0.707 -0.707 10.077 45.439)" />
+  </g>
+</svg>
