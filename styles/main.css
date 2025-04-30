@@ -1059,15 +1059,24 @@ button[aria-label]::before {
   padding-block: clamp(2.5rem, 1.2254901961rem + 5.2287581699vw, 7.5rem);
   background-color: var(--color-dark-10);
 }
-.section-info {
+.section__header-info {
   display: grid;
   align-items: center;
   row-gap: 1rem;
 }
 @media (width <= 90.06125rem) {
-  .section-info {
+  .section__header-info {
     row-gap: 0.625rem;
   }
+}
+.section__subtitle {
+  justify-self: start;
+}
+
+.header,
+main > *:not(:last-child),
+.footer {
+  display: none !important;
 }
 
 /*# sourceMappingURL=main.css.map */
