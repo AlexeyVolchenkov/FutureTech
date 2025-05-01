@@ -1073,10 +1073,4 @@ button[aria-label]::before {
   justify-self: start;
 }
 
-.header,
-main > *:not(:last-child),
-.footer {
-  display: none !important;
-}
-
 /*# sourceMappingURL=main.css.map */
