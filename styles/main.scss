@@ -36,8 +36,6 @@
 @use './blocks/rating-view';
 @use './blocks/review-card';
 
-.header,
-main > *:not(:last-child),
-.footer {
-  display: none;
-}
+@use './blocks/about-card';
+@use './blocks/about';
+

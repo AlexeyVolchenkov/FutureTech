@@ -21,6 +21,7 @@
 
     @include tablet-above {
       .bordered-grid__item {
+
         &:nth-child(3n - 2),
         &:nth-child(3n - 1) {
           padding-right: var(--itemPaddingX);
@@ -40,6 +41,10 @@
 
     @include tablet {
       --columns: 1;
+
+      .bordered-grid__item:not(:last-child) {
+        border-bottom: var(--border);
+      }
     }
   }
   

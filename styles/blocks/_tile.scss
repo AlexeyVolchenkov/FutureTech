@@ -1,10 +1,10 @@
 @use '../helpers' as *;
 
 .tile {
-  border-radius: rem(12);
-  border: var(--border);
-  background-color: var(--color-dark-10);
   padding: fluid(40, 24);
+  background-color: var(--color-dark-10);
+  border: var(--border);
+  border-radius: rem(12);
 
   @include laptop {
     border-radius: rem(10);
