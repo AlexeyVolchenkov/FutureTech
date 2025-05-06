@@ -21,9 +21,22 @@
     text-align: center;
     border-bottom: var(--border);
     background-color: var(--color-dark);
+    white-space: nowrap;
 
     @include mobile {
       padding-block: rem(14);
+    }
+
+    @include mobile-s {
+      font-size: rem(12);
+    }
+
+    &-link {
+      .icon {
+        @include mobile-s {
+          column-gap: rem(5);
+        }
+      }
     }
   }
 
